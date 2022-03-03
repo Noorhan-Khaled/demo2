@@ -10,12 +10,12 @@ public class Employee  {
   //  1 name _1 10000 , 101 depatrment_101
     // Department Write In File
 
-    Employee(int employeeId,String name,int salary){
+   /* Employee(int employeeId,String name,int salary){
         this.employeeId=employeeId;
         this.name=name;
         this.salary=salary;
     }
-
+*/
     public Integer getEmployeeId() {
         return employeeId;
     }
